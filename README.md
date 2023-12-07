@@ -8,3 +8,12 @@ Program kendisine aktarılan toplam komut satırı argüman sayısı 2 ve ikinci
 
 ## User Guide
 
+``` bash
+bash HelloWorld3.sp
+```
+
+## Kullanım
+
+``` bash
+bash HelloWorld3.sp
+```
