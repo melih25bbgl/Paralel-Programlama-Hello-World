@@ -12,8 +12,16 @@ Program kendisine aktarılan toplam komut satırı argüman sayısı 2 ve ikinci
 bash HelloWorld3.sp
 ```
 
+``` cikti
+./cikti3.x 7
+```
+
 ## Kullanım
 
 ``` bash
 bash HelloWorld3.sp
+```
+
+``` cikti
+./cikti3.x 7
 ```
